@@ -15,11 +15,6 @@ A simple **Expense Tracker** app to manage daily expenses with ease.
 
 ## 🛠️ Tech Stack
 - HTML, CSS, JavaScript
-- LocalStorage for data persistence (or Firebase / Backend if used)
-- Chart.js (if using graphs)
-
-## 📷 Screenshots
-![Expense Tracker Screenshot](screenshot.png)
 
 ## ⚙️ Installation
 1. Clone this repository:
